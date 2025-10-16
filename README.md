@@ -152,4 +152,4 @@ sns.pairplot(df)
 
 
 # RESULT
-        Thus the program to implement the data analysis has been successfully completed.
+Thus the program to implement the data analysis has been successfully completed.
