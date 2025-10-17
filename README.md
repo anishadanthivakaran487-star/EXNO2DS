@@ -1,4 +1,7 @@
 # EXNO2DS
+## Date: 16/10/2025
+## NAME:ANISH ADAN THIVAKARAN
+## REF.NO:25017997
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
       
@@ -24,8 +27,6 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-## NAME:ANISH ADAN THIVAKARAN
-## REF.NO:25017997
 ```
 import pandas as pd
 import numpy as np
